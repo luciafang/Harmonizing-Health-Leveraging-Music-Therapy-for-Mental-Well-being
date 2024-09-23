@@ -26,4 +26,4 @@ To get started, ensure you have the necessary libraries installed: pip install p
 **Conclusion**
 This project highlights the potential for using music preferences to inform personalized mental health therapies. While the model successfully predicted depression-related outcomes, more balanced data and additional demographic information are needed for robust predictions across all mental health conditions.
 
-Collaborators: Amy Deng
+**Collaborators**: Amy Deng

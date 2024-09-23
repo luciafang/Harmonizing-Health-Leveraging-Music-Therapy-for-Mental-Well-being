@@ -1,4 +1,5 @@
 **Harmonizing Health: Leveraging Music Therapy for Mental Well-being**
+
 This project investigates how music can be used to improve mental well-being, focusing on the relationship between music preferences and mental health conditions such as anxiety, depression, insomnia, and OCD. We explore personalized music therapy recommendations based on individual preferences and therapeutic needs.
 
 **Key Features**
